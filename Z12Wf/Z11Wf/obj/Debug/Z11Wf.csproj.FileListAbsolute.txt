@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\bin\Debug\Z11Wf.exe.config
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\bin\Debug\Z11Wf.exe
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\bin\Debug\Z11Wf.pdb
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\obj\Debug\Z11Wf.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\obj\Debug\Z11Wf.Form1.resources
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\obj\Debug\Z11Wf.Properties.Resources.resources
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\obj\Debug\Z11Wf.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\obj\Debug\Z11Wf.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\obj\Debug\Z11Wf.exe
+C:\Users\susal\source\repos\Z11Wf\Z11Wf\obj\Debug\Z11Wf.pdb
