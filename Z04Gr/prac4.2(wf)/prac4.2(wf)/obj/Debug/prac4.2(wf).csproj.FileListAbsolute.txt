@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\bin\Debug\prac4.2(wf).exe.config
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\bin\Debug\prac4.2(wf).exe
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\bin\Debug\prac4.2(wf).pdb
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\obj\Debug\prac4.2(wf).csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\obj\Debug\prac4._2_wf_.Form1.resources
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\obj\Debug\prac4._2_wf_.Properties.Resources.resources
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\obj\Debug\prac4.2(wf).csproj.GenerateResource.cache
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\obj\Debug\prac4.2(wf).csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\obj\Debug\prac4.2(wf).exe
+C:\Users\susal\source\repos\prac4.2(wf)\prac4.2(wf)\obj\Debug\prac4.2(wf).pdb
