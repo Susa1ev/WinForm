@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\bin\Debug\prac3.3(wf)re.exe.config
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\bin\Debug\prac3.3(wf)re.exe
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\bin\Debug\prac3.3(wf)re.pdb
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\obj\Debug\prac3.3(wf)re.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\obj\Debug\prac3._3_wf_re.Form1.resources
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\obj\Debug\prac3._3_wf_re.Properties.Resources.resources
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\obj\Debug\prac3.3(wf)re.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\obj\Debug\prac3.3(wf)re.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\obj\Debug\prac3.3(wf)re.exe
+C:\Users\susal\source\repos\prac3.3(wf)re\prac3.3(wf)re\obj\Debug\prac3.3(wf)re.pdb
