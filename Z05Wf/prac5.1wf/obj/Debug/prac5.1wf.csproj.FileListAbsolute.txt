@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\bin\Debug\prac5.1wf.exe.config
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\bin\Debug\prac5.1wf.exe
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\bin\Debug\prac5.1wf.pdb
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\obj\Debug\prac5.1wf.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\obj\Debug\prac5._1wf.Form1.resources
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\obj\Debug\prac5._1wf.Properties.Resources.resources
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\obj\Debug\prac5.1wf.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\obj\Debug\prac5.1wf.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\obj\Debug\prac5.1wf.exe
+C:\Users\susal\source\repos\prac5.1wf\prac5.1wf\obj\Debug\prac5.1wf.pdb
