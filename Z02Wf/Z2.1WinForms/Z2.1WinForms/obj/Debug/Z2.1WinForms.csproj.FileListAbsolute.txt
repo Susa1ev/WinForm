@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\bin\Debug\Z2.1WinForms.exe.config
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\bin\Debug\Z2.1WinForms.exe
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\bin\Debug\Z2.1WinForms.pdb
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\obj\Debug\Z2.1WinForms.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\obj\Debug\Z2._1WinForms.Form1.resources
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\obj\Debug\Z2._1WinForms.Properties.Resources.resources
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\obj\Debug\Z2.1WinForms.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\obj\Debug\Z2.1WinForms.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\obj\Debug\Z2.1WinForms.exe
+C:\Users\susal\source\repos\Z2.1WinForms\Z2.1WinForms\obj\Debug\Z2.1WinForms.pdb
