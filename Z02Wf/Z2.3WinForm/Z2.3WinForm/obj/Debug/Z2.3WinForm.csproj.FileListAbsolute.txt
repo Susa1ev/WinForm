@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\bin\Debug\Z2.3WinForm.exe.config
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\bin\Debug\Z2.3WinForm.exe
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\bin\Debug\Z2.3WinForm.pdb
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\obj\Debug\Z2.3WinForm.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\obj\Debug\Z2._3WinForm.Form1.resources
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\obj\Debug\Z2._3WinForm.Properties.Resources.resources
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\obj\Debug\Z2.3WinForm.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\obj\Debug\Z2.3WinForm.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\obj\Debug\Z2.3WinForm.exe
+C:\Users\susal\source\repos\Z2.3WinForm\Z2.3WinForm\obj\Debug\Z2.3WinForm.pdb
